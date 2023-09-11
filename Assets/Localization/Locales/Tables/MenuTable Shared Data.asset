@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MenuTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MenuTable
+  m_TableCollectionNameGuidString: 10789630483b5f94cbe83d50ad6e3fd2
+  m_Entries:
+  - m_Id: 5607627870208
+    m_Key: StartNewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5730407731200
+    m_Key: ConitnueGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6004161564672
+    m_Key: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6076416839680
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730384004993024
+    m_Key: ConfirmButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5738938994372608
+    m_Key: CancelButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5739050118262784
+    m_Key: WarningTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5739242234163200
+    m_Key: DescriptionNewGame
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4492347731159810050
+  references:
+    version: 2
+    RefIds:
+    - rid: 4492347731159810050
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692697605936

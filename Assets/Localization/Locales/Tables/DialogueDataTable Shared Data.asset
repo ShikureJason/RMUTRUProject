@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DialogueDataTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DialogueDataTable
+  m_TableCollectionNameGuidString: 04fdc268011b27f4ab1cc06950a73b72
+  m_Entries:
+  - m_Id: 54163853312
+    m_Key: T-1-1-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725543312609280
+    m_Key: T-1-1-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746667475914752
+    m_Key: T-1-1-3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746880848547840
+    m_Key: T-1-1-4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746949064708096
+    m_Key: T-1-1-5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 971160215539712
+    m_Key: T1-2-1-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4634024927219712
+    m_Key: T1-3-1-1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4492347344390979586
+  references:
+    version: 2
+    RefIds:
+    - rid: 4492347344390979586
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691250483084
